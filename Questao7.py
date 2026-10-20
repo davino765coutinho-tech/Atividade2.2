@@ -1,0 +1,1 @@
+nome = input("qual o nome do seu heroi?")
